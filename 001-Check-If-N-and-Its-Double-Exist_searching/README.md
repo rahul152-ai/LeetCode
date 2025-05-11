@@ -1,4 +1,6 @@
-# Check If N and Its Double Exist
+# [Check If N and Its Double Exist](https://leetcode.com/problems/check-if-n-and-its-double-exist/)
+
+# Solution [url](https://leetcode.com/problems/check-if-n-and-its-double-exist/solutions/6733275/using-has-map-in-on-time-and-space-compl-gcrx/)
 
 ---
 
