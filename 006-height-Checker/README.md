@@ -14,12 +14,12 @@ You are given an integer array `heights` representing the current order that the
 
 ### Example 1:
 
-`````Input: heights = [1,1,4,2,1,3]
+```Input: heights = [1,1,4,2,1,3]
 Output: 3
 Explanation:
 heights: [1,1,4,2,1,3]
 expected: [1,1,1,2,3,4]
-Indices 2, 4, and 5 do not match. ````
+Indices 2, 4, and 5 do not match.```
 
 ### Example 2:
 
@@ -37,4 +37,3 @@ All indices do not match.
 ## Constraints
 - `1 <= heights.length <= 100`
 - `1 <= heights[i] <= 100
-`````
